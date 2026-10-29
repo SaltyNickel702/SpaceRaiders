@@ -1,5 +1,11 @@
 For the TSA Video Game Design Competition<br>
 
+### Purpose
+Entry for the TSA game development competition
+
+### First Version
+One playable level with one ability
+
 ### Brainstorming
 * Players progress through discrete levels
 * Each level completed rewards experience
