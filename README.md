@@ -1,5 +1,4 @@
-# SpaceRaiders
-TSA Competition
+# SpaceRaiders - TSA Competition
 
 ## Members
 * Niko
