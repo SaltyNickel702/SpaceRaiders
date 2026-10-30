@@ -15,3 +15,6 @@ https://services.api.unity.com/app-linking/v1/hub/editor/Unity.Cloud.DeepLinking
 
 ## Skill Tree Mockup
 ![Skill Tree](https://github.com/SaltyNickel702/SpaceRaiders/blob/main/docs/Mockup.png?raw=true)
+
+## UML Diagram
+![UML](https:://github.com/SaltyNickel702/SpaceRaiders/blob/main/docs/SpaceRaiders.jpg")
