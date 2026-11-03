@@ -10,7 +10,9 @@ Create a deep space-themed RPG where the primary method of progression is puzzle
 
 ## Prototype
 Unity Based
+
 [Link to Repo](https://github.com/SaltyNickel702/SpaceRaiders-unity)
+
 [Link to Unity Project](https://services.api.unity.com/app-linking/v1/hub/editor/Unity.Cloud.DeepLinking.Editor/Z7gvTKfrDIxopF7OpuvmnxalpvXetck7)
 
 ## Skill Tree Mockup
